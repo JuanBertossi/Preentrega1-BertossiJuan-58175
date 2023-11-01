@@ -4,7 +4,7 @@ import "./NavBar.css";
 
 export default function CartWidget() {
   const click = () => {
-    console.log(`Hiciste clic en el carrito`);
+    console.log(`Hiciste click en el carrito`);
   };
 
   return (

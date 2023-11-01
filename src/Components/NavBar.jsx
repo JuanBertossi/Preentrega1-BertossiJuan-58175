@@ -4,7 +4,7 @@ import CartWidget from "../Components/carrito";
 
 function navBar() {
   const click = (seccion) => {
-    console.log(`Hiciste clic en la sección: ${seccion}`);
+    console.log(`Hiciste click en la sección: ${seccion}`);
   };
 
   return (
